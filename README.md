@@ -1,7 +1,10 @@
 ### Hi there 👋
+[![MasterHead](https://user-images.githubusercontent.com/70807684/155598813-e68ec3a3-3c8a-4326-9fc3-899c6fd3d2cf.gif)](https://rishavchanda.io)
+
 
 <h1 align="center">Hi 👋, I'm Thathsarani Dhalanjala</h1>
 <h3 align="center">Software Engineer | Web Developer | Graphic Designer |</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thathsaranid&label=Profile%20views&color=0e75b6&style=flat" alt="thathsaranid" /> </p>
 
