@@ -1,4 +1,6 @@
 ### Hi there 👋
+<p>I'm Thathsarani Dhalanjala, I am an Undergraduate at NSBM Green University. I am studying Software Engineering at Plymouth University and finished my computer and English diploma at ESOFT metro campus. I have finished a web-based certificate course at Sabaragamuwa University in this year.   I have the best skills in MS Office package, Adobe Photoshop, and Illustrator. I have an artistic eye. Sometimes I am an artist, sometimes I am a Web developer. I have the ability to transform an organization into a creative environment with modern technology</p>
+
 [![MasterHead](https://user-images.githubusercontent.com/70807684/155598813-e68ec3a3-3c8a-4326-9fc3-899c6fd3d2cf.gif)](https://rishavchanda.io)
 
 
